@@ -3,19 +3,19 @@
 public class Taxes {
 
     //TODO:
-    public static Float calculateTax(Person person){
-        return 0F;
+    public static int calculateTax(Person person){
+        return 0;
     }
     //TODO:
-    public static Float calculateTrygdeavgift(Person person){
-        return 0F;
+    public static int calculateTrygdeavgift(Person person){
+        return 0;
     }
     //TODO:
-    public static Float calculateTrinnskatt(Person person){
-        return 0F;
+    public static int calculateTrinnskatt(Person person){
+        return 0;
     }
     //TODO:
-    public static Float calculateFormueskatt(Person person){
-        return 0F;
+    public static int calculateFormueskatt(Person person){
+        return 0;
     }
 }
